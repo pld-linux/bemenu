@@ -1,11 +1,11 @@
 Summary:	Dynamic menu library and client program inspired by dmenu
 Name:		bemenu
-Version:	0.6.16
+Version:	0.6.17
 Release:	1
 License:	LGPL v3+, GPL v3+
 Group:		Applications
 Source0:	https://github.com/Cloudef/bemenu/releases/download/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	43980053bbbbfd1fd7a8b07a470a3fc5
+# Source0-md5:	dec3895a6fd2924c0ce2062f96565581
 URL:		https://github.com/Cloudef/bemenu
 BuildRequires:	cairo-devel
 BuildRequires:	ncurses-devel
